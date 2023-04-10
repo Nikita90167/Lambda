@@ -39,4 +39,3 @@ Comparator<Person> comparatorLambda;
 ## Описание проекта
 
 В этом проекте я интегрировал механизм лямбда-выражения в свою работу для [решения поставленной задачи](https://github.com/lordpank/Lambda)
-
